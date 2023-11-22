@@ -11,7 +11,7 @@
 
 ## Experience
 #### 🔭July 2022 – Jan 2023 : UBION CORPORATION - Data Analyst Intern @Seoul, S.Korea 
-• Conducted in-depth data analysis and developed predictive models, focusing on the finance industry, to identify potential candidates for investment.
+• Conducted in-depth data analysis and developed predictive models, focusing on the finance industry, to identify potential candidates for investment.\
 • Leveraged financial expertise to provide advice to a fintech startup, identifying factor investing strategies and delivering technical analysis-based recommendations.
     
 #### 🔭Dec 2020 – May 2022 : HANA FINANCIAL INVESTMENT - Associate Sales Strategist @Seoul, S.Korea 
