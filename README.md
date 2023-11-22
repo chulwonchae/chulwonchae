@@ -14,8 +14,7 @@
     
 #### 🔭Dec 2020 – May 2022 : HANA FINANCIAL INVESTMENT - Associate Sales Strategist @Seoul, S.Korea 
 • Hosted open seminars and educational sessions, showcasing expertise in automated trading strategies
-• Collaborated with clients to develop and implement customized trading strategies, supported by in-
-depth data analysis
+• Collaborated with clients to develop and implement customized trading strategies, supported by in-depth data analysis
 • Prepared performance reports for VIP retail clients, delivering timely market research and insights
     
 #### 🔭Nov 2019 – Nov 2020 : HSBC - Fund Accountant @Seoul, S.Korea
@@ -27,10 +26,8 @@ depth data analysis
 • Brokered and traded various over-the-counter (OTC) energy products and pioneered the launch of the industry's first emissions brokerage service in Korea
 
 #### 🔭Jan 2017 – Aug 2018 : HSBC - Assistance Relationship Manager @Seoul, S.Korea
-• Maintained proactive communication with global asset management and insurance companies,
-providing updates on performance and market trends
-• Assisted in the onboarding process of new clients and prepared requests for proposals for potential
-clients
+• Maintained proactive communication with global asset management and insurance companies,providing updates on performance and market trends
+• Assisted in the onboarding process of new clients and prepared requests for proposals for potentialclients
 
 
 
