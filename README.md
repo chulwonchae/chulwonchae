@@ -3,7 +3,9 @@
 
 ## Education 
 🌱Aug 2023 - Dec 2024 : MS Applied Data Science @ University of Chicago
+
 🌱Jan 2022 - Dec 2023 : BS Software Engineering @ Seoul Digital University
+
 🌱Aug 2009 - Dec 2015 : BS Business / Finance @ University of Louisiana
 
 
