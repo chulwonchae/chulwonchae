@@ -2,11 +2,11 @@
 ## 😄 Finance professional transitioning into data science to harness the power of data-driven insights across diverse industries. Committed to utilizing analytical skills to solve complex challenges and drive innovation.
 
 ## Education 
-🌱Aug 2023 - Dec 2024 : MS Applied Data Science @ University of Chicago
+🌱Aug 2023 - Dec 2024 : MS Applied Data Science @ University of Chicago.
 
-🌱Jan 2022 - Dec 2023 : BS Software Engineering @ Seoul Digital University
+🌱Jan 2022 - Dec 2023 : BS Software Engineering @ Seoul Digital University.
 
-🌱Aug 2009 - Dec 2015 : BS Business / Finance @ University of Louisiana
+🌱Aug 2009 - Dec 2015 : BS Business / Finance @ University of Louisiana.
 
 
 ## Experience
