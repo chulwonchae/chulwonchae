@@ -15,20 +15,20 @@
 • Leveraged financial expertise to provide advice to a fintech startup, identifying factor investing strategies and delivering technical analysis-based recommendations.
     
 #### 🔭Dec 2020 – May 2022 : HANA FINANCIAL INVESTMENT - Associate Sales Strategist @Seoul, S.Korea 
-• Hosted open seminars and educational sessions, showcasing expertise in automated trading strategies.
-• Collaborated with clients to develop and implement customized trading strategies, supported by in-depth data analysis.
+• Hosted open seminars and educational sessions, showcasing expertise in automated trading strategies.\
+• Collaborated with clients to develop and implement customized trading strategies, supported by in-depth data analysis.\
 • Prepared performance reports for VIP retail clients, delivering timely market research and insights.
     
 #### 🔭Nov 2019 – Nov 2020 : HSBC - Fund Accountant @Seoul, S.Korea
-• Calculated net asset values for funds and ensured compliance with regulatory requirements and investment guidelines.
+• Calculated net asset values for funds and ensured compliance with regulatory requirements and investment guidelines.\
 • Collaborated with cross-functional teams, including IT, to update the account management system to comply with changing legislation.
 
 #### 🔭Nov 2018 – Aug 2019 : DAISHIN SECURITIES - Commodities Derivatives Dealer @Seoul, S.Korea 
-• Designed and implemented derivatives-based hedging solutions for institutional clients, effectively managing their physical positions.
+• Designed and implemented derivatives-based hedging solutions for institutional clients, effectively managing their physical positions.\
 • Brokered and traded various over-the-counter (OTC) energy products and pioneered the launch of the industry's first emissions brokerage service in Korea.
 
 #### 🔭Jan 2017 – Aug 2018 : HSBC - Assistance Relationship Manager @Seoul, S.Korea
-• Maintained proactive communication with global asset management and insurance companies,providing updates on performance and market trends.
+• Maintained proactive communication with global asset management and insurance companies,providing updates on performance and market trends.\
 • Assisted in the onboarding process of new clients and prepared requests for proposals for potentialclients.
 
 
