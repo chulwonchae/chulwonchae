@@ -1,6 +1,10 @@
 ### Hi! I'm Chulwon 👋
 ## 😄 Finance professional transitioning into data science to harness the power of data-driven insights across diverse industries. Committed to utilizing analytical skills to solve complex challenges and drive innovation.
 
+## Skills
+• Skills: Python (SpaCy, HuggingFace, TensorFlow, PyTorch, LangChain and etc), SQL, R, Database Management (MySQL, MongoDB, Git, DVC), Data Visualization (Tableau), Data Crawling (Beautiful Soup, Scrapy),MS Office (Excel, PowerPoint), Quantitative Analysis, Trading Strategies, Project Management, CFA Level 1 
+• Data Science: Statistical Analysis, A/B Testing, Machine Learning (Regression, Clustering, Classification) Natural Language Processing (NLP), Large Language Models (LLM), Time Series Analysis, MLOps
+
 ## Education 
 🌱Aug 2023 - Dec 2024 : MS Applied Data Science @ University of Chicago.
 
@@ -23,7 +27,7 @@
 • Collaborated with clients to develop and implement customized trading strategies, supported by in-depth data analysis.\
 • Prepared performance reports for VIP retail clients, delivering timely market research and insights.
     
-#### 🔭Nov 2019 – Nov 2020 : HSBC - Fund Accountant @Seoul, S.Korea
+#### 🔭Nov 2019 – Nov 2020 : HSBC - Assistance Relationship Manager @Seoul, S.Korea
 • Enhanced account management system, increasing fund net asset value calculation accuracy and maintaining, regulatory compliance, leveraging project management acumen and fund compliance knowledge.\
 • Calculated net asset values for funds and ensured compliance with regulatory requirements and investment guidelines.\
 • Collaborated with cross-functional teams, including IT, to update the account management system to comply with changing legislation.
